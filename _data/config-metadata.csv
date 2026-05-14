@@ -7,7 +7,7 @@ date,Fecha de publicacion/creacion,,,DCTERMS.date,dateCreated
 location,Lugar de publicacion/creacion,,,,contentLocation
 identifier,Identificador,,,DCTERMS.identifier,identifier
 locus,Locus,,,DCTERMS.locus,locus
-description,Descripción,,,DCTERMS.description,description
+descrizioni,Descrizioni,,,DCTERMS.description,description
 subject,Temas,true,,DCTERMS.subject,keywords
 source,Fuente,,,,
 
